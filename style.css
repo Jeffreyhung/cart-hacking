@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    /* background-color: #31383f; */
-    background-image: url("assets/cart-background2.jpeg");
+    background-color: #31383f;
+    /* background-image: url("assets/cart-background2.jpeg"); */
     background-size: auto 100%;
     color: #ededed;
     font-family: 'Rubik', sans-serif;
